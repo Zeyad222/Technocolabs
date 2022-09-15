@@ -7,4 +7,5 @@ It include some of Courses from kaggle:
 * Data Manipulation
 * Machine Learning - Introduction & Intermediate
 * Machine Learning Explainability
+* Feature Engineering
 
